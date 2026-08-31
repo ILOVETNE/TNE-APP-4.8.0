@@ -15,7 +15,7 @@
 "badge":"NEW",
 "label":"Tourism",
 "folder":"tne_explore_listing",
-"colorSelected":"#D4A017",
+"colorSelected":"#8A0024",
 "imageSelected":"assets/images/tne-logo4.webp"
 }
 ],
@@ -27,8 +27,8 @@
 "heightButton":54,
 "labelFontSize":34,
 "diagonalSkew":48,
-"marginTop":0,
-"marginBottom":5,
+"marginTop":5,
+"marginBottom":10,
 "activeCaption":"none",
 "backgroundColor":"#8A0024",
 "showActiveBadge":true,
